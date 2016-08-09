@@ -38,11 +38,11 @@ You're free to choose whatever technology stack and boilerplate template you wan
 
 ## What we're looking for
 
-We want to learn what you consider "shippable" quality code, how you approach problems, and how you communicate that thought process to others.
+We want to learn how you approach problems, how you prioritize engineering tasks, how you make tradeoffs, and how you communicate that thought process to others.
 
-We strongly prefer quality over quantity - we want to know what you consider "shippable", not how quickly you can throw something together.
+We want to know what you consider *minimally shippable* code. *Minimally shippable* does not necessarily mean throwing something together as quickly as possible, or creating a shining example of programming perfection. Instead, we'd like you to decide what tradeoffs you need to make in order to build something quickly while keeping future iteration in mind.
 
-It's okay to leave things out if they don't meet your quality standards - just let us know in your `README.md`.
+It's okay to leave things out if they don't meet your standards - just let us know in your `README.md`.
 
 ### Readme
 
@@ -51,27 +51,27 @@ Please include a README detailing:
 - A brief description of the problem and how you chose to solve it.
 - Your focus for this project (front-end, back-end, full stack)
 - Technical choices you made during the project
-- What challenges or compromises did you face during the project?
+- What challenges, tradeoffs, or compromises did you face during the project?
 - What did you learn along the way?
-- If you had more time, what would you improve?
+- If you had more time, what would you improve? What would you tackle first?
 
 We care about your thought process and your engineering prowess. The better we can understand how you approached the problem, the better we can review your project. Here are a few questions we'll consider:
 
 - **Can we understand your thought process?** Does your `README.md` clearly and concisely describe the problem, your solution, and what you did to achieve it? Does your project do what the `README.md` says it does?
 
+- **Can we understand your priorities and tradeoffs?** If your tradeoffs aren't intuitive, do you explain your rationale?
+
 - **Can we understand your code?** Is your code clean, consistent, and concise? Does it follow good practices? Is it easy to build and host locally?
 
-- **Do your technical choices make sense?**
+- **Can we understand your technical choices?** If your choices aren't intuitive, do you explain your rationale?
 
-- **Does your project solve the problem statement?** If not, does your `README.md` tell us why?
-
-- **Is your project intuitive to use?** If you built a front-end, is it easy to understand and use? If you built a back-end, is the API intuitive?
+- **Is your project intuitive to use?** If you built a front-end, is it easy to understand and use? If you built a back-end, is the API intuitive? If not, why?
 
 Here are some questions that will get you bonus points:
 
-- **Is your project scalable?**
+- **How would you address scalability?**
 
-- **Is your project robust?** What's the test coverage like? Does it include good error handling? How easy is it to change parts of it?
+- **Is your project robust?** What's the test coverage like? Does it include good error handling?
 
 ### Submitting
 
