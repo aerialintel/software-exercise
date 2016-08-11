@@ -16,7 +16,7 @@ The user interface is completely up to you! Be as creative as you like.
 
 You can get soybean production statistics from the USDA QuickStats service. For convenience, here's a URL that will return a JSON dump of all soybean production for 2015 by county. You can change `agg_level_desc=COUNTY` to `agg_level_desc=STATE` to get state level data.
 
-[http://quickstats.nass.usda.gov/api/api_GET/?key=657A7402-DF3A-3C12-A7D6-FFCC1DDE180D&format=json&year=2015&commodity_desc=SOYBEANS&statisticcat_desc=PRODUCTION&agg_level_desc=COUNTY&unit_desc=BU&prodn_practice_desc=ALL PRODUCTION PRACTICES&reference_period_desc=YEAR]()
+[http://quickstats.nass.usda.gov/api/api_GET/?key=657A7402-DF3A-3C12-A7D6-FFCC1DDE180D&format=json&year=2015&commodity_desc=SOYBEANS&statisticcat_desc=PRODUCTION&agg_level_desc=COUNTY&unit_desc=BU&prodn_practice_desc=ALL PRODUCTION PRACTICES&reference_period_desc=YEAR](http://quickstats.nass.usda.gov/api/api_GET/?key=657A7402-DF3A-3C12-A7D6-FFCC1DDE180D&format=json&year=2015&commodity_desc=SOYBEANS&statisticcat_desc=PRODUCTION&agg_level_desc=COUNTY&unit_desc=BU&prodn_practice_desc=ALL PRODUCTION PRACTICES&reference_period_desc=YEAR)
 
 You can get real-time weather data from several weather providers. For example, Forecast.io ([https://developer.forecast.io/]()) provides a JSON API and a free trial.
 
