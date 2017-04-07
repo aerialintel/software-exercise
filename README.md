@@ -1,4 +1,4 @@
-# Aerial Intelligence Software Challenge
+# Aerial Intelligence Software Exercise
 
 ## The project
 
